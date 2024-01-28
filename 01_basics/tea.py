@@ -1,3 +1,3 @@
 from hello_python import tea
 
-tea("ginger tea")
+tea("Ginger Tea from tea.py")
